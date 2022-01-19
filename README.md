@@ -1,4 +1,4 @@
-#Terms of Service
+# Terms of Service
 Last updated: December 15th, 2021
 
 These Terms of Service (“Terms,” “ToS”) represent our rules, policy, and guidelines for using our Services (“API,” “website,” community”).
